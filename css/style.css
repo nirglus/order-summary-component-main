@@ -43,13 +43,23 @@ body{
 .plan{
     display: flex;
     align-items: center;
-    gap: 24px;
-    background-color: hsl(225, 100%, 98%);
-    padding: 0 25px;
+    gap: 15px;
+    background-color: rgb(245, 247, 255);
+    width: 285px;
+    padding: 16px 19px;
+    border-radius: 10px;
+}
+.plan-txt{
+    padding-bottom: 12px;
 }
 .plan-txt h2{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 900;
     color: hsl(223, 47%, 23%);
     margin-bottom: 4px;
+}
+.plan-txt span{
+    color: hsl(224, 23%, 55%);
+    font-size: 12px;
+    font-weight: 500;
 }
