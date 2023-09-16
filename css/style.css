@@ -83,4 +83,6 @@ body{
 }
 .cancelBtn{
     margin-bottom: 50px;
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
 }
