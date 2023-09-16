@@ -121,7 +121,7 @@ body{
         font-weight: 900;
     }
 }
-@media (min-width: 768px) and (max-width: 1440px){
+@media (min-width: 768px) and (max-width: 1400px){
     #card-container{
         transform: scale(0.8);
     }
