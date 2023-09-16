@@ -112,6 +112,12 @@ body{
     .txt p{
         font-size: 18px;
     }
-    
+    .proceedBtn{
+        font-size: 17px;
+    }
+    .cancelBtn{
+        font-size: 18px;
+        font-weight: 900;
+    }
 }
 
