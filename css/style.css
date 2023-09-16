@@ -47,21 +47,22 @@ body{
     gap: 15px;
     background-color: rgb(245, 247, 255);
     width: 285px;
-    padding: 16px 19px;
+    padding: 16px 25px;
     border-radius: 10px;
 }
 .plan-txt{
     padding-bottom: 12px;
 }
 .plan-txt h2{
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 900;
     color: hsl(223, 47%, 23%);
     margin-bottom: 4px;
+    width: 100px;
 }
 .plan-txt span{
     color: hsl(224, 23%, 55%);
-    font-size: 12px;
+    font-size: 17px;
     font-weight: 500;
 }
 .plan-txt u{
