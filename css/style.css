@@ -40,3 +40,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+.plan{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    background-color: hsl(225, 100%, 98%);
+    padding: 0 25px;
+}
