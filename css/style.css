@@ -65,7 +65,7 @@ body{
     font-size: 17px;
     font-weight: 500;
 }
-.plan-txt u{
+.plan u{
     margin-left: 60px;
     font-size: 15px;
     color: hsl(245, 75%, 52%);
@@ -86,3 +86,16 @@ body{
     color: hsl(224, 23%, 55%);
     font-weight: 700;
 }
+.plan u:hover{
+    color: rgba(56, 41, 224, 0.7);
+    cursor: pointer;
+}
+.proceedBtn:hover{
+    cursor: pointer;
+    background-color: rgba(56, 41, 224, 0.7);;
+}
+.cancelBtn:hover{
+    cursor: pointer;
+    color: hsl(223, 47%, 23%);;
+}
+
