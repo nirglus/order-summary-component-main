@@ -97,6 +97,9 @@ body{
     cursor: pointer;
     background-color: rgba(56, 41, 224, 0.7);;
 }
+.proceedBtn:active{
+    transform: translateY(2px);
+}
 .cancelBtn:hover{
     cursor: pointer;
     color: hsl(223, 47%, 23%);;
