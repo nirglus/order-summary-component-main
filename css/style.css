@@ -64,3 +64,9 @@ body{
     font-size: 12px;
     font-weight: 500;
 }
+.plan-txt u{
+    margin-left: 60px;
+    font-size: 15px;
+    color: hsl(245, 75%, 52%);
+    font-weight: 900;
+}
